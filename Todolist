@@ -1,7 +1,10 @@
--Create a venv,create proj,insall req
-
+<!-- -Create a venv,create proj,insall req
+ -->
 -Templates
-
+    -create app for pages
+    -create base template
+    -create front page
+    -create about age
 -Auth
 
 -Dashboard
